@@ -4,4 +4,4 @@ script: make build
 after_success: ./update-gh-pages.sh
 env:
   global:
-  - secure: LCQx31kn57mbHPpB9IrHVtuWqJbOzQ0HfuvdjCk0CRAbB009kC86NIGffwhE8WIwi+h2t1iCq5BnGw558+X1z6Ble1IcHM4YWv3SoRotHtrM2ti8NxhfvJ88E3TK9LpmAEAqDtWUpax/V8lRCmpVVC28hoE/bAGgZYNZUW7JFGk=
+  - secure: ceIyocdnLeEEMZ0dzR6bwSK6qdeyVRaZvxqD71DkurWa4DEF/q8QYB1wNSH/nSDJV38Exr7RfNVemsgZR1UIEOoYpyr1c15sOazp+jpkF2S6TqvKjexLkvaa5hctsgACgRLHk3xWudI9I+iVMHFq6f+rgnqFfzykIs4+1PkNAZ8=
